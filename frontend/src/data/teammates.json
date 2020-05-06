@@ -1,0 +1,62 @@
+{
+    "je66yliu": {
+        "name": "Jerry Liu",
+        "username": "je66yliu",
+        "commits": 0,
+        "issues": 0,
+        "bio": "Jerry is a hardstuck gold player in League of Legends. When he is tilted from troll junglers or tired of coding, he enjoys working out or cooking.",
+        "majorAndTrack": "Computer Engineering (Software)",
+        "responsibilities": "Frontend (React), Backend (Express), GUI testing",
+        "numTests": 10
+    },
+    "matthewgolla": {
+        "name": "Matthew Golla",
+        "username": "matthewgolla",
+        "commits": 0,
+        "issues": 0,
+        "bio": "Before the COVID-19 Crisis, Matt Golla was poised to become an intramural soccer star. His team was in the final rounds of competition when the tournament was cancelled and he was confined inside, forced to become a software engineer.",
+        "majorAndTrack": "Computer Engineering (Software/Data Science)",
+        "responsibilities": "Backend unit testing, Report",
+        "numTests": 11
+    },
+    "dylanmccoy": {
+        "name": "Dylan McCoy",
+        "username": "dylanmccoy",
+        "commits": 0,
+        "issues": 0,
+        "bio": "Dylan McCoy is a Computer Engineering major at the University of Texas at Austin. He has an excess of RGB accessories for his computer setup, and possesses enough fans to make his PC an aircraft.",
+        "majorAndTrack": "Computer Engineering (Software/Computer Architecture)",
+        "responsibilities": "Data scraping, Frontend",
+        "numTests": 10
+    },
+    "ryuichiyanagi": {
+        "name": "Ryuichi Yanagi",
+        "username": "ryuichiyanagi",
+        "commits": 0,
+        "issues": 0,
+        "bio": "Ryuichi Yanagi is an aspiring software engineer at the University of Texas at Austin. He used to enjoy going outside and doing physical activities, but that has decreased proportionally to how far in his degree plan he gets.",
+        "majorAndTrack": "Computer Engineering (Software)",
+        "responsibilities": "Data scraping, GUI testing",
+        "numTests": 12
+    },
+    "dianashao": {
+        "name": "Diana Shao",
+        "username": "dianashao",
+        "commits": 0,
+        "issues": 0,
+        "bio": "Diana is an avid TV-binger and loves to eat ice cream or play volleyball in her free time. One of her proudest accomplishments was winning a rice cooker in a raffle when she was 12.",
+        "majorAndTrack": "Computer Engineering (Software)",
+        "responsibilities": "Data scraping, Report",
+        "numTests": 13
+    },
+    "kxc3568": {
+        "name": "Kevin Chen",
+        "username": "kxc3568",
+        "commits": 0,
+        "issues": 0,
+        "bio": "Kevin is just a boy that really enjoys playing indoor volleyball and working out. When greg is not open, he likes to play Smash Ultimate and sometimes play other sports.",
+        "majorAndTrack": "Computer Engineering (Software)",
+        "responsibilities": "Frontend (React), API and Frontend testing",
+        "numTests": 13
+    }
+}

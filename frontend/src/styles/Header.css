@@ -1,0 +1,24 @@
+header > .MuiToolbar-root {
+    background-color: #282828;
+}
+
+.MuiButton-label, .MuiList-root {
+    color: #ffffff;
+    transition: 0.20s;
+}
+
+.MuiButton-label:hover {
+    opacity: 0.5;
+}
+
+.MuiTypography-root {
+    color: #20b954;
+}
+
+.MuiList-root {
+    background-color: #282828;
+}
+
+.MuiButtonBase-root:focus {
+    outline: none !important;
+}

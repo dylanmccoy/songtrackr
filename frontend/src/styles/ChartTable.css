@@ -1,0 +1,27 @@
+.MuiPickersBasePicker-pickerView {
+    background-color: #282828;
+}
+
+.MuiTypography-body1, span > p.MuiTypography-body2 {
+    color: #ffffff;
+}
+
+span.MuiPickersCalendarHeader-dayLabel {
+    color: #b3b3b3;
+}
+
+button.MuiPickersCalendarHeader-iconButton {
+    background-color: #b3b3b3;
+}
+
+button.MuiPickersCalendarHeader-iconButton:hover {
+    background-color: #20b954;
+}
+
+button.MuiPickersDay-daySelected {
+    background-color: #20b954;
+}
+
+button.MuiPickersDay-daySelected:hover {
+    background-color: #131313;
+}

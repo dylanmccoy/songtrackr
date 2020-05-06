@@ -1,0 +1,8 @@
+.artist-link {
+    transition: 0.20s;
+}
+
+.artist-link:hover {
+    color: #b3b3b3;
+    cursor: pointer;
+}

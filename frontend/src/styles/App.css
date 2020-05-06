@@ -1,0 +1,34 @@
+html {
+    background-color: #131313;
+}
+
+.App {
+    text-align: center;
+    min-height: 100vh;
+    background-color: #131313;
+    color: #ffffff;
+}
+
+.click-link {
+    text-decoration: none;
+    color: #ffffff;
+    transition: 0.20s;
+}
+
+.click-link:hover {
+    text-decoration: none;
+    color: #ffffff;
+    opacity: 0.5;
+}
+
+.click-link-footer {
+    text-decoration: none;
+    color: #b3b3b3;
+    transition: 0.20s;
+}
+
+.click-link-footer:hover {
+    text-decoration: none;
+    color: #b3b3b3;
+    opacity: 0.5;
+}

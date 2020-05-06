@@ -1,0 +1,13 @@
+.MuiPagination-ul > li > button, div.MuiPaginationItem-ellipsis {
+    color: #ffffff;
+}
+
+button.MuiPaginationItem-page.Mui-selected {
+    background-color: #20b954;
+    color: #131313;
+}
+
+button.MuiPaginationItem-page.Mui-selected:hover {
+    background-color: #282828;
+    color: #ffffff;
+}
